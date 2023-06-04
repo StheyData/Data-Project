@@ -28,3 +28,11 @@ If you're not sure whether these are installed or how to install them, you can r
 
 ## Data
 The dataset utilized in this study is a recreation from the original smokers' study data. It is composed of various attributes such as age, gender, daily cigarette consumption, among others. It's important to note that to respect privacy and ethical standards, the dataset is free from any personally identifiable information.
+
+## Contributing
+
+Your contributions to this project are heartily welcomed! Don't hesitate to fork this project, submit issues, or open a pull request. Let's collaborate to improve this educational tool!
+
+## License
+
+This project is available under the conditions of the MIT license. For more information, refer to the license document in the repository.
